@@ -14,19 +14,37 @@
 
 <h2>Punto 3: suma de dos numeros indicados por el usuario</h2>
 
+<img src="./public/images/punto-3.png" alt="punto-3">
+
 <h2>Punto 4: Datos del usuario en consola </h2>
+
+<img src="./public/images/punto-4.png" alt="punto-4">
 
 <h2>Punto 5: Entrada de bolera usando if else</h2>
 
+<img src="./public/images/punto-5.png" alt="punto-5">
+
 <h2>Punto 6: Detenccion de mayoria de edad</h2>
+
+<img src="./public/images/punto-6.png" alt="punto-6">
 
 <h2>Punto 7: Seleccion de operacion aritmetica</h2>
 
+<img src="./public/images/punto-7.png" alt="punto-7">
+
 <h2>Punto 8: Entrada de bolera usuando Swith</h2>
+
+<img src="./public/images/punto-8.png" alt="punto-8">
+<img src="./public/images/punto-8_1.png" alt="punto-8">
+<img src="./public/images/punto-8_2.png" alt="punto-8">
 
 <h2>Punto 9: Tabla de multiplicar usando while</h2>
 
+<img src="./public/images/punto-9.png" alt="punto-9">
+
 <h2>Punto 10: Números pares usando while</h2>
+
+<img src="./public/images/punto-10.png" alt="punto-10">
 
 <h2>Punto 11: Números impares usando for</h2>
 
